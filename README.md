@@ -2,7 +2,7 @@
 <h3 align="center">A game developer from Turkey</h3>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasincey) 
+<p align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasincey) </p>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white)
@@ -13,6 +13,3 @@
 
 <p><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clif4b7as005408mfs8nbdb9j/stats?cursusId=21&coalitionId=198" alt="yceylan's 42 stats" /></a> </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=yasincey&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
