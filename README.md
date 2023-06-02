@@ -11,7 +11,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasincey&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasincey&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasincey&show_icons=true&locale=en" alt="yasincey" /></p>
 <p><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clif4b7as005408mfs8nbdb9j/stats?cursusId=21&coalitionId=198" alt="yceylan's 42 stats" /></a> </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=yasincey&icon=0&color=9)](https://visitcount.itsvg.in)
