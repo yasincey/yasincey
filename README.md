@@ -2,7 +2,7 @@
 <h3 align="center">A game developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasincey&label=Profile%20views&color=0e75b6&style=flat" alt="yasincey" /> </p>
-- 🌱 I’m currently learning **C, C# and unity**
+                                - 🌱 I’m currently learning **C, C# and unity**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
